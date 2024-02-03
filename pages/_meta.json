@@ -1,0 +1,9 @@
+{
+  "index": {
+    "display": "hidden"
+  },
+  "agents": "Agents",
+  "applications": "Applications",
+  "policies": "Policies",
+  "other": "Other"
+}
